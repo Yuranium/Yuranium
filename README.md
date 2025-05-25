@@ -12,8 +12,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api/top-repos?username=Yuranium&theme=dark)
+### 🔝 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuranium&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuranium&icon=0&color=0)](https://visitcount.itsvg.in)
